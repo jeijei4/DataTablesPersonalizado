@@ -414,10 +414,11 @@ table.dataTable, table.dataTable td, table.dataTable th {
 .dataTables_wrapper .dataTables_filter input, .dataTables_wrapper .dataTables_length select {
     display: inline-block;
     width: auto;
-    height: calc(1.8rem + 2px);
+    height: 30px;
     font-size: 14px;
     line-height: 1.5;
-    background-color: #fff
+    background-color: #fff;
+	font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
 }
 
 @media screen and (max-width: 767px) {
