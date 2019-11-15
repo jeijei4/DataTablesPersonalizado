@@ -1,5 +1,5 @@
 # DataTables personalizado
-Tema personalizado de datatables.net en español, versión 1.10.18
+Tema personalizado de datatables.net en español, versión 1511.19
 [![Logo](/Custom-DataTables-1.10.18.png)](https://raw.githubusercontent.com/jeijei4/DataTablesPersonalizado/master/Custom-DataTables-1.10.18.png)
 
 > Requiere jQuery 1.7 o posterior.
