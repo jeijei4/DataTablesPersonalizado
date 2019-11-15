@@ -248,7 +248,7 @@ table.dataTable tbody td.dt-body-justify, table.dataTable tbody th.dt-body-justi
 }
 
 table.dataTable, table.dataTable td, table.dataTable th {
-    box-sizing: content-box;
+    box-sizing: border-box;
 }
 
 .dataTables_wrapper {
